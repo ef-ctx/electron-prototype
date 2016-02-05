@@ -1,0 +1,23 @@
+{
+  "name": "electron-prototype",
+  "version": "0.0.0",
+  "description": "playing with electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ef-ctx/electron-prototype.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ef-ctx/electron-prototype/issues"
+  },
+  "homepage": "https://github.com/ef-ctx/electron-prototype#readme",
+  "devDependencies": {
+    "electron-packager": "^5.2.1",
+    "electron-prebuilt": "^0.36.7"
+  }
+}
